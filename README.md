@@ -1,4 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Coding Guy
+Hi Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luicy kamau
+===================================================================================================================================
+
+Coding and coming up with apps
+------------------------------
+
+I've started coding in 2025 and I want make it a better of me coz I also want do it at a universal
+
+* 🌍  I'm based in Nairobi kenya
+* ✉️  You can contact me at [Luicykamau@gmail.com](mailto:Luicykamau@gmail.com)
+* 🧠  I'm learning how to code
+* 🤝  I'm open to collaborating on Any project that in tail coding
+
+### Skills
+
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Coding Guy
 ==================================================================================================================================
 
 Web developer
